@@ -2,6 +2,7 @@
 
 **Three localized variants of Arabic month names** packaged as GNU Gettext `.po` files.  
 Each file includes **24 entries**:  
+
 - 12 with `msgctxt "Long month name"`  
 - 12 with `msgctxt "Abbreviated month name"`
 
@@ -14,8 +15,7 @@ Each file includes **24 entries**:
 
 - **Egypt / Gulf**: “يناير، فبراير، مارس…”  
   Abbreviations intentionally **duplicate** the long names for consistency.
-- **Levant**: “كانون ٢، شباط، آذار… تشرين ١، تشرين ٢، كانون ١”  
-  Note: **January = كانون ٢**, **December = كانون ١**.  
+- **Levant**: “كانون الثاني، شباط، آذار… تشرين الأول، تشرين الثاني، كانون الأول”  
   Abbreviations are the same visible strings (e.g., “تشرين ١”).
 - **Maghreb**: “جانفي، فيفري، مارس… جويلية، أوت…”  
   Abbreviations intentionally **duplicate** the long names for consistency.
@@ -54,6 +54,7 @@ These PO files are **generic** and can be used anywhere PO translations are supp
 
 - Edit with **Poedit** or similar tools.
 - Compile to `.mo` when needed:
+  
   ```bash
   msgfmt -o months-egypt-gulf.mo months-egypt-gulf.po
   ```
@@ -76,6 +77,7 @@ PRs welcome! If you spot regional nuances, spelling preferences, or need additio
 
 **Acknowledgements**  
 Thanks to the **Localize.Drupal.org Arabic team** for initiating this work and providing guidance:
+
 - Language page: https://localize.drupal.org/translate/languages/ar
 - Repo: https://github.com/layalk/arabic-months-l10n
 - Project wiki entry: https://localize.drupal.org/node/64212
@@ -89,10 +91,11 @@ You can copy, modify, distribute, and use the files, even for commercial purpose
 
 ---
 
-# 🇸🇦🇱🇧🇪🇬🇲🇦 النسخة العربية
+# # ملفات PO لترجمة أسماء الأشهر بالعربية
 
 **حزم ترجمة لأسماء الأشهر بالعربية** بصيغة Gettext `.po`.  
 يحتوي كل ملف على **24 مدخلًا**:
+
 - 12 بسياق `msgctxt "Long month name"`
 - 12 بسياق `msgctxt "Abbreviated month name"`
 
@@ -105,8 +108,7 @@ You can copy, modify, distribute, and use the files, even for commercial purpose
 
 - **مصر / الخليج**: «يناير، فبراير، مارس…»  
   الاختصارات **مطابقة** للأسماء الكاملة عمدًا للحفاظ على الاتساق.
-- **بلاد الشام**: «كانون ٢، شباط، آذار… تشرين ١، تشرين ٢، كانون ١»  
-  ملاحظة: **يناير = كانون ٢**، **ديسمبر = كانون ١**.  
+- **بلاد الشام**: «كانون الثاني، شباط، آذار… تشرين الأول، تشرين الثاني، كانون الأول»  
   الاختصارات هي نفس الصيغ المرئية (مثل «تشرين ١»).
 - **المغرب العربي**: «جانفي، فيفري، مارس… جويلية، أوت…»  
   الاختصارات **مطابقة** للأسماء الكاملة عمدًا للحفاظ على الاتساق.
@@ -143,6 +145,7 @@ months-maghreb.po
 
 - يمكن التحرير عبر **Poedit**.
 - للتحويل إلى `.mo`:
+  
   ```bash
   msgfmt -o months-egypt-gulf.mo months-egypt-gulf.po
   ```
@@ -165,6 +168,7 @@ months-maghreb.po
 
 **شكر خاص**  
 لفريق **الترجمة العربية في Localize.Drupal.org**:
+
 - صفحة اللغة: https://localize.drupal.org/translate/languages/ar
 - المستودع: https://github.com/layalk/arabic-months-l10n
 - صفحة الويكي: https://localize.drupal.org/node/64212
