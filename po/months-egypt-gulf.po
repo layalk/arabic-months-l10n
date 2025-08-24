@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgctxt "Long month name"
+msgid "January"
+msgstr "يناير"
+
+msgctxt "Abbreviated month name"
+msgid "Jan"
+msgstr "يناير"
+
+msgctxt "Long month name"
+msgid "February"
+msgstr "فبراير"
+
+msgctxt "Abbreviated month name"
+msgid "Feb"
+msgstr "فبراير"
+
+msgctxt "Long month name"
+msgid "March"
+msgstr "مارس"
+
+msgctxt "Abbreviated month name"
+msgid "Mar"
+msgstr "مارس"
+
+msgctxt "Long month name"
+msgid "April"
+msgstr "أبريل"
+
+msgctxt "Abbreviated month name"
+msgid "Apr"
+msgstr "أبريل"
+
+msgctxt "Long month name"
+msgid "May"
+msgstr "مايو"
+
+msgctxt "Abbreviated month name"
+msgid "May"
+msgstr "مايو"
+
+msgctxt "Long month name"
+msgid "June"
+msgstr "يونيو"
+
+msgctxt "Abbreviated month name"
+msgid "Jun"
+msgstr "يونيو"
+
+msgctxt "Long month name"
+msgid "July"
+msgstr "يوليو"
+
+msgctxt "Abbreviated month name"
+msgid "Jul"
+msgstr "يوليو"
+
+msgctxt "Long month name"
+msgid "August"
+msgstr "أغسطس"
+
+msgctxt "Abbreviated month name"
+msgid "Aug"
+msgstr "أغسطس"
+
+msgctxt "Long month name"
+msgid "September"
+msgstr "سبتمبر"
+
+msgctxt "Abbreviated month name"
+msgid "Sep"
+msgstr "سبتمبر"
+
+msgctxt "Long month name"
+msgid "October"
+msgstr "أكتوبر"
+
+msgctxt "Abbreviated month name"
+msgid "Oct"
+msgstr "أكتوبر"
+
+msgctxt "Long month name"
+msgid "November"
+msgstr "نوفمبر"
+
+msgctxt "Abbreviated month name"
+msgid "Nov"
+msgstr "نوفمبر"
+
+msgctxt "Long month name"
+msgid "December"
+msgstr "ديسمبر"
+
+msgctxt "Abbreviated month name"
+msgid "Dec"
+msgstr "ديسمبر"

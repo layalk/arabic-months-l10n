@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgctxt "Long month name"
+msgid "January"
+msgstr "كانون الثاني"
+
+msgctxt "Abbreviated month name"
+msgid "Jan"
+msgstr "كانون 2"
+
+msgctxt "Long month name"
+msgid "February"
+msgstr "شباط"
+
+msgctxt "Abbreviated month name"
+msgid "Feb"
+msgstr "شباط"
+
+msgctxt "Long month name"
+msgid "March"
+msgstr "آذار"
+
+msgctxt "Abbreviated month name"
+msgid "Mar"
+msgstr "آذار"
+
+msgctxt "Long month name"
+msgid "April"
+msgstr "نيسان"
+
+msgctxt "Abbreviated month name"
+msgid "Apr"
+msgstr "نيسان"
+
+msgctxt "Long month name"
+msgid "May"
+msgstr "أيار"
+
+msgctxt "Abbreviated month name"
+msgid "May"
+msgstr "أيار"
+
+msgctxt "Long month name"
+msgid "June"
+msgstr "حزيران"
+
+msgctxt "Abbreviated month name"
+msgid "Jun"
+msgstr "حزيران"
+
+msgctxt "Long month name"
+msgid "July"
+msgstr "تموز"
+
+msgctxt "Abbreviated month name"
+msgid "Jul"
+msgstr "تموز"
+
+msgctxt "Long month name"
+msgid "August"
+msgstr "آب"
+
+msgctxt "Abbreviated month name"
+msgid "Aug"
+msgstr "آب"
+
+msgctxt "Long month name"
+msgid "September"
+msgstr "أيلول"
+
+msgctxt "Abbreviated month name"
+msgid "Sep"
+msgstr "أيلول"
+
+msgctxt "Long month name"
+msgid "October"
+msgstr "تشرين الأول"
+
+msgctxt "Abbreviated month name"
+msgid "Oct"
+msgstr "تشرين 1"
+
+msgctxt "Long month name"
+msgid "November"
+msgstr "تشرين الثاني"
+
+msgctxt "Abbreviated month name"
+msgid "Nov"
+msgstr "تشرين 2"
+
+msgctxt "Long month name"
+msgid "December"
+msgstr "كانون الأول"
+
+msgctxt "Abbreviated month name"
+msgid "Dec"
+msgstr "كانون 1"
